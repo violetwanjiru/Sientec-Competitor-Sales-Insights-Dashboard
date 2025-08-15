@@ -1,5 +1,5 @@
 ## The goal of this project was to perform competitor sales analysis
-Founded in 2018, Sientec is a consumer electronics company competing in the highly dynamic global marketing landscape. The company operates across multiple product categories and sells in markets including the United States, Germany, and other international regions. To better understand its position against top competitors, Sientec has built a comprehensive competitor sales repository tracking key performance metrics such as revenue, units sold, market share, and revenue per unit.
+Founded in 2018, Sientec is a consumer electronics company competing in the highly dynamic global marketing landscape. The company operates across multiple product categories and sells in markets including the United States, Germany, and other international regions. To better understand its position against top competitors, Sientec has built a comprehensive competitor sales repository that tracks key performance metrics, including revenue, units sold, market share, and revenue per unit.
 
 With a focus on strategic growth, Sientec’s goals are twofold: 1) to identify opportunities to close revenue gaps with premium-priced competitors, and 2) to strengthen its presence in underrepresented markets while leveraging strong sales volumes in core regions.
 
@@ -43,7 +43,7 @@ To evaluate competitive positioning and market performance, we focused on the fo
    development and competitive positioning in this high-value segment.
 
   # Implications
-  - Sientec’s growth trajectory is strong, but pricing, product mix, and geographic diversification are critical to closing the revenue gap with premium   competitors.
+-Sientec’s growth trajectory is strong, but pricing, product mix, and geographic diversification are critical to closing the revenue gap with premium   competitors.
  - Competitors’ top products dominate brand influence, requiring targeted innovation to improve Sientec’s market visibility.
 
   # Recommended Actions
@@ -52,7 +52,7 @@ To evaluate competitive positioning and market performance, we focused on the fo
   - Expand into Underrepresented Regions such as Germany to reduce geographic concentration risk.
   - Enhance Brand Perception through targeted marketing and product innovation in top-tier categories.
 # Dashboard
-The dashboard can be found [here]. This dashboard enables users to filter by company, product category, and geographic region, and focuses on trends and values in sales metrics, market share metrics, and revenue-per-unit comparisons across competitors.
+The dashboard can be found [here]. This dashboard enables users to filter by company, product category, and geographic region. It focuses on trends and values in sales metrics, market share metrics, and revenue-per-unit comparisons across competitors.
 <img width="753" height="420" alt="image" src="https://github.com/user-attachments/assets/8f820ea5-afde-4f42-aed8-8059e6875f72" />
 <img width="751" height="416" alt="image" src="https://github.com/user-attachments/assets/1608b57f-b873-4adb-b55a-98ba990b9a8c" />
 
