@@ -1,5 +1,5 @@
 ## The goal of this project was to perform competitor sales analysis
-Founded in 2018, Sientec is a consumer electronics company competing in the highly dynamic global marketing landscape. The company operates across multiple product categories and sells in markets including the United States, Germany, and other international regions. To better understand its position against top competitors, Sientec has built a comprehensive competitor sales repository that tracks key performance metrics, including revenue, units sold, market share, and revenue per unit.
+Founded in 2018, Sientec is a manufacturing company competing in the highly dynamic global marketing landscape. The company operates across multiple product categories and sells in markets including the United States, Germany, and other international regions. To better understand its position against top competitors, Sientec has built a comprehensive competitor sales repository that tracks key performance metrics, including revenue, units sold, market share, and revenue per unit.
 
 With a focus on strategic growth, Sientec’s goals are twofold: 1) to identify opportunities to close revenue gaps with premium-priced competitors, and 2) to strengthen its presence in underrepresented markets while leveraging strong sales volumes in core regions.
 
